@@ -1,0 +1,5 @@
+dist/
+__pycache__/
+*.pyc
+# Local assessment includes project-only context; public status lives in PLAN.md.
+FEASIBILITY_AND_PLAN.md
