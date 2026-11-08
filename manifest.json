@@ -1,11 +1,11 @@
 {
   "id": "superprod-vim-motions",
   "name": "Keyboard Ergonomics",
-  "version": "0.2.0",
-  "description": "Keyboard-first view and project picker for Super Productivity",
+  "version": "0.2.5",
+  "description": "Keyboard-first view/project navigation, schedule sidebar, Inbox, and focused-task focus sessions",
   "manifestVersion": 1,
   "minSupVersion": "14.0.0",
   "hooks": [],
-  "permissions": ["getAllProjects"],
+  "permissions": ["getAllProjects", "getAppState"],
   "isSkipMenuEntry": true
 }
